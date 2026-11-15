@@ -1,0 +1,9 @@
+# Configuración local con contraseñas: no debe publicarse
+includes/config.php
+
+# Archivos del sistema y del editor
+.DS_Store
+Thumbs.db
+*.log
+.vscode/
+.idea/
