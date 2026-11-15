@@ -17,6 +17,4 @@ Práctica 5 de Programación Web Avanzada. Aplicación en PHP y MySQL para organ
 
 PHP 8, MySQL, HTML, CSS y JavaScript. La base de datos está en `sql/pwapractica5.sql`.
 
-Para probarlo en local, importa ese SQL y copia `includes/config.example.php` como `includes/config.php`.
-
 Grupo 04 · Programación Web Avanzada
