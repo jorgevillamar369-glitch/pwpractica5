@@ -1,6 +1,9 @@
 # Configuración local con contraseñas: no debe publicarse
 includes/config.php
 
+# Vista de prueba local (no forma parte de la aplicación)
+demo_movil.html
+
 # Archivos del sistema y del editor
 .DS_Store
 Thumbs.db
